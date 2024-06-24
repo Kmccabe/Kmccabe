@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Kmccabe, I am a professor of Economics, Law, and Neuroscience at George Mason University.  You can learn more about my research by looking me up on google scholar.  
+- 👋 Hi, I’m @Kmccabe, I am a professor of Economics, Law, and Neuroscience at George Mason University.  You can learn more about my research on my [google scholar page](https://scholar.google.com/citations?user=DB4YOI4AAAAJ&hl=en&oi=ao).  
 - 👀 My research interests are experimental economics, computational economic systems design, computational markets, and trust relationships.
-- 🌱 I’m currently learning about blockchains.
-- 💞️ I’m looking to collaborate on blockchain research.
+- 🌱 I’m currently learning about blockchains and Large Language Models.
+- 💞️ I’m looking to collaborate on blockchain research and LLM research.
 - 📫 You can reach me at kmccabe.gmu.edu
 
 <!---
